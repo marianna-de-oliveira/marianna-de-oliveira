@@ -1,14 +1,27 @@
 
-## Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Marianna de Oliveira aqui!
+ <h1 align="center"> Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <i>Marianna de Oliveira</i> aqui! </p>
 
-<p>
-<img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=marizawndev&show_icons=true&theme=jolly&hide_border=true" alt="marizawndev's stats"/> 
-<img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marizawndev&layout=compact&theme=jolly&hide_border=true" alt="maykbrito's most languages"/>
+<p align="center">
+<img width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marizawndev&layout=compact&theme=jolly&hide_border=true" alt="maykbrito's most languages"/>
 </p>
 
+### 🚧 Desenvolvedora front-end em desenvolvimento �
+- 🌱 Atualmente estudando: JavaScript
+- 💻 <a href="">Portfólio</a> (em construção)
+- ⚡ Curiosidades: <br>
+    - 💜 Viciada por roxo e rosa <br>
+    - ⚜️ Torcedora do New Orleans Saints <br>
+    - 🐱 Amo gatos, mas tenho 4 cachorros <br>
+    
+### 🎓 Hard Skills
+  - HTML5
+  - CSS3
+  - Bootstrap
 
-- 🌱 I’m currently learning JavaScript
-- 💬 Ask me about anything and i'll give my best to answer
-- 📫 How to reach me: ...
-- 😄 Pronouns: ela/dela she/her
-- ⚡ Fun fact: purple and pink addicted 
+### ❥ Soft Skills
+  - Dedicada
+  - Curiosa
+  - AMO aprender coisas novas
+<br>
+  <h2 align="center">Vem cá falar comigo!</h2>
+<p align="center"><a href="https://twitter.com/_marizawnn"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/marianna-de-oliveira/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/front.mari/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="mailto:marianna.oad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <!-- <a target="_blank" href="https://thomasgeorgethomas.ml/"> <img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge"></img></a> --> </p>
