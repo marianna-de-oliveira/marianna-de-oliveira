@@ -2,8 +2,8 @@
 ## Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Marianna de Oliveira aqui!
 
 <p>
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=marizawndev&show_icons=true&theme=jolly&hide_border=true" alt="marizawndev's stats"/> 
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marizawndev&layout=compact&theme=jolly&hide_border=true" alt="maykbrito's most languages"/>
+<img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=marizawndev&show_icons=true&theme=jolly&hide_border=true" alt="marizawndev's stats"/> 
+<img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marizawndev&layout=compact&theme=jolly&hide_border=true" alt="maykbrito's most languages"/>
 </p>
 
 
