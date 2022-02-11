@@ -2,7 +2,7 @@
  <h1 align="center"> Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <i>Marianna de Oliveira</i> aqui! <img align="center" src="https://github.com/marizawndev/marizawndev/blob/main/download20220204003016.png" width="100" height="100"> </p>
 
 <p align="center">
-<img width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marizawndev&layout=compact&theme=jolly&hide_border=true" alt="maykbrito's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marizawndev&layout=compact&theme=jolly&hide_border=true" alt="maykbrito's most languages"/>
 </p>
 
 ### 🚧 Desenvolvedora front-end em desenvolvimento �
