@@ -11,11 +11,11 @@
 - ⚡ Curiosidades: <br>
     - 💜 Viciada por roxo e rosa <br>
     - ⚜️ Torcedora do New Orleans Saints <br>
-    - 🐱 Amo gatos, mas tenho 4 cachorros <br>
+    - 🐱 Amo gatos, mas tenho 4 cachorros <br><br>
     
 ### 🎓 Hard Skills
 <div>  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"  width="35" height="35" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"  width="35" height="35" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="35" height="35" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap"  width="35" height="35" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"  width="35" height="35" />  
@@ -25,7 +25,8 @@
   - Dedicada
   - Curiosa
   - AMO aprender coisas novas
-<br>
+ 
+ 
   <h2 align="center">Vem cá falar comigo!</h2> 
 <p align="center">
  <a href="https://twitter.com/_marizawnn"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> 
