@@ -1,10 +1,10 @@
 
  <h1 align="center"> Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> <i>Marianna de Oliveira</i> aqui! <img align="center" src="https://github.com/marizawndev/marizawndev/blob/main/download20220204003016.png" width="100" height="100"> </p>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marizawn&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marizawndev&layout=compact&theme=jolly&hide_border=true" alt="marizawn's most languages"/>
-</p>
+
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=marizawn&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marizawndev&layout=compact&theme=jolly&hide_border=true" alt="marizawn's most languages"/>
+
 
 ### 🚧 Desenvolvedora front-end em desenvolvimento �
 - 🌱 Atualmente estudando: JavaScript
