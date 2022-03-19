@@ -6,7 +6,7 @@
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianna-de-oliveira&layout=compact&theme=jolly&hide_border=true" alt="marizawn's most languages"/>
 
 
-### 🚧 Desenvolvedora front-end em desenvolvimento �
+### 🚧 Desenvolvedora front-end em desenvolvimento 
 - 🌱 Atualmente estudando: JavaScript
 - 💻 <a href="">Portfólio</a> (em construção)
     
