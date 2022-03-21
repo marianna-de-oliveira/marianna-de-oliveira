@@ -1,16 +1,16 @@
 
- <h2 align="center"> Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Marianna de Oliveira aqui! </p>
+ <h2 align="center"> Oi oi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><br> Marianna de Oliveira aqui! </p>
 
 
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=marianna-de-oliveira&show_icons=true&theme=jolly&layout=compact&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianna-de-oliveira&layout=compact&theme=jolly&hide_border=true" alt="marizawn's most languages"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marianna-de-oliveira&show_icons=true&theme=jolly&layout=compact&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianna-de-oliveira&layout=compact&theme=jolly&hide_border=true" alt="marizawn's most languages"/>
 
 
 ### 🚧 Desenvolvedora front-end em desenvolvimento 
 - 🌱 Atualmente estudando: JavaScript
 - 💻 <a href="">Portfólio</a> (em construção)
     
-### 🎓 Hard Skills
+### 🎓 Skills
 <div>  
 <img align="center" alt="mari-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
 <img align="center" alt="mari-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
