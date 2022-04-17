@@ -8,7 +8,7 @@
 
 ### 🚧 Desenvolvedora front-end em desenvolvimento 
 - 🌱 Atualmente estudando: JavaScript
-- 💻 <a href="">Portfólio</a> (em construção)
+- 💻 <a href="https://marianna-de-oliveira.vercel.app/">Portfólio</a> (em desenvolvimento)
     
 ### 🎓 Skills
 <div>  
