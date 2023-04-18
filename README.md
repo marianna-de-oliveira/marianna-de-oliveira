@@ -1,5 +1,5 @@
 
- <h2 align="center"> Oi oi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><br> Marianna de Oliveira aqui! </p>
+ <h2 align="center"> Oi oi, <br> Marianna de Oliveira aqui! </p>
 
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marianna-de-oliveira&show_icons=true&theme=jolly&layout=compact&hide_border=true&include_all_commits=true&count_private=true"/>
