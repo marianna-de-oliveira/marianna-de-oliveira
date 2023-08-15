@@ -1,11 +1,6 @@
 
  <h2 align="center"> Oi oi, <br> Marianna de Oliveira aqui! </p>
 
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=marianna-de-oliveira&show_icons=true&theme=jolly&layout=compact&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianna-de-oliveira&layout=compact&theme=jolly&hide_border=true" alt="marizawn's most languages"/>
-
-
 ### 🚧 Desenvolvedora front-end em desenvolvimento 
 - 🌱 Atualmente estudando: JavaScript
 - 💻 <a href="https://marianna-de-oliveira.vercel.app/">Portfólio</a> (em desenvolvimento)
