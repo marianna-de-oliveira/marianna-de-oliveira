@@ -4,4 +4,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin,instagram,gmail,)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianna-de-oliveira)](https://github.com/marianna-de-oliveira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianna-de-oliveira&hide=html)](https://github.com/marianna-de-oliveira/github-readme-stats)
